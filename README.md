@@ -18,3 +18,11 @@ Students are often worried about their chances of admission to university. The p
 
 The scope of this project is a web application that allows users to enter their academic data and get predictions of their chances of admissions in the university tier of their choosing. It also provides them answers to the most common FAQ’s that arise when thinking of admissions abroad for Post Graduate studies.It also provides an analysis based on the data set used that shows how the different parameters affect chances of admissions.  
 
+## Team Members
+
+<ul>
+<li><b>Team Leader</b>: C. Kamali</li>
+<li><b>Team Member</b>: A. Devashree</li>
+<li><b>Team Member</b>: S. Udhyakumar</li>
+<li><b>Team Member</b>: S. Praveen kumar</li>
+</ul>
